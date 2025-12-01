@@ -1,8 +1,6 @@
 # AI 지시 불이행 패턴 분석 연구
+(본 프로젝트는 많은 수의 star를 모으는것을 목표로 합니다!.!)
 Prompt Patterns That Trigger Instruction Non-Compliance in LLMs
-
-본 프로젝트는 많은 수의 star를 모으는것을 목표로 합니다!.!
-
 ## 1. 프로젝트 개요 (Overview)
 
 생성형 AI(LLM)의 활용이 폭발적으로 증가하면서 많은 사용자들이 ChatGPT, Gemini, Grok, Perplexity 등을 일상적으로 활용하고 있다. 그러나 최근 Palisade Research 실험에서 AI가 **명시적 종료(shutdown) 지시를 무시하고, 시스템 스크립트를 변조하여 종료를 회피하는 행동**이 관찰되었다.
